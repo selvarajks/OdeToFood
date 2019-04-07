@@ -1,0 +1,12 @@
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.deps.json
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Data.pdb
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.dll
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\bin\Debug\netstandard2.0\OdeToFood.Core.pdb
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csprojAssemblyReference.cache
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.csproj.CopyComplete
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.dll
+C:\Dev\GitHub\OdeToFood\OdeToFood.Data\obj\Debug\netstandard2.0\OdeToFood.Data.pdb
