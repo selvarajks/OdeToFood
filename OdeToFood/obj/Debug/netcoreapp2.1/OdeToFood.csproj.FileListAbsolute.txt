@@ -35,3 +35,5 @@ C:\Dev\GitHub\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
 C:\Dev\GitHub\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
 C:\Dev\GitHub\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 C:\Dev\GitHub\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
+C:\Dev\GitHub\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\Details.g.cshtml.cs
+C:\Dev\GitHub\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Restaurants\NotFound.g.cshtml.cs
